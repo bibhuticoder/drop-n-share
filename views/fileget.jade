@@ -1,0 +1,23 @@
+extends layout
+
+block content
+	div.container
+		table.table.table-bordered(style="margin-top:100px")
+			tr
+				td
+					strong Filename
+				td#filename #{fileName}
+			tr
+				td
+					strong Filetype
+				td#filetype  #{fileType}
+			tr
+				td 
+					strong Filesize
+				td #{fileSize} bytes
+
+		label.bold#peerid(hidden="") #{peerid}
+	
+		button(id="btnDownload", class="btn btn-success btn-lg") Download file
+		
+	script(type='text/javascript', src='/javascripts/script2.js')   
