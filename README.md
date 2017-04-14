@@ -19,4 +19,4 @@ npm install && node app
 
 ## todos
 
-Its just basic and works well only for small files. Many things remainig to do.
+Its just basic and works well only for small files. Many things remaining to do.
