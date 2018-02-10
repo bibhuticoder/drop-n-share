@@ -1,5 +1,4 @@
 # drop-n-share
-:heart::heart::heart::heart:
 
 File sharing web app built with webrtc. The webrtc creates a p2p :couple: environment to share the file without involving the server in between. The initial signaling/handshaking is done via node server.
 
@@ -19,4 +18,4 @@ npm install && node app
 
 ## todos
 
-Its just basic and works well only for small files. Many things remaining to do.
+Its just basic and works well only for small files.
