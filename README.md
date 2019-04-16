@@ -17,5 +17,4 @@ npm install && node app
 - copy the link and give it to receiver
 
 ## todos
-
-Its just basic and works well only for small files.
+- works only for small files, needs improvement on this regard
